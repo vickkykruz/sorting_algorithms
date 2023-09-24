@@ -7,3 +7,13 @@
 1. Insertion sort
 2. Selection sort
 3. Quick sort
+
+### Advance Tasks
+5. Cocktail shaker sort
+6. Counting sort
+7. Merge sort
+8. Heap sort
+9. Radix sort
+10. Bitonic sort
+11. Quick Sort - Hoare Partition scheme
+12. Dealer
