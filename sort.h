@@ -2,6 +2,7 @@
 #define SORTED_LIST
 
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * struct listint_s - Doubly linked list node
@@ -30,4 +31,5 @@ void lomuto_partition(int *arr, int low, int high, int size);
 /** Advance Tasks **/
 void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
+void counting_sort(int *array, size_t size);
 #endif
