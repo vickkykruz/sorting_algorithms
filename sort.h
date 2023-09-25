@@ -29,4 +29,5 @@ void lomuto_partition(int *arr, int low, int high, int size);
 
 /** Advance Tasks **/
 void shell_sort(int *array, size_t size);
+void cocktail_sort_list(listint_t **list);
 #endif
